@@ -1,7 +1,7 @@
 # maze-project
 A project to slove maze problems using DFS and BFS
 
-Project Report
+Project Report - Google Slides:  
 https://docs.google.com/presentation/d/103ASO-nZXIjZK44x4msSdrXvCcnRHQHKwIabdkxlYyo/edit?usp=sharing
 
 Problem:
